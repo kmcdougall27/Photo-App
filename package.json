@@ -1,0 +1,19 @@
+{
+  "name": "photodisplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcdougall27/Photo-App.git"
+  },
+  "author": "Kieran McDougall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmcdougall27/Photo-App/issues"
+  },
+  "homepage": "https://github.com/kmcdougall27/Photo-App#readme"
+}
