@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kmcdougall27/Photo-App/issues"
   },
-  "homepage": "https://github.com/kmcdougall27/Photo-App#readme"
+  "homepage": "https://github.com/kmcdougall27/Photo-App#readme",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
 }
