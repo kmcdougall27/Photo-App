@@ -1,22 +1,52 @@
 {
-  "name": "photodisplay",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+    "lint": "eslint \"**/*.{js,ts,tsx}\"",
+
+    "lint:fix": "prettier-eslint \"**/*.{js,ts,tsx}\" --write"
+
   },
+
   "repository": {
+
     "type": "git",
+
     "url": "git+https://github.com/kmcdougall27/Photo-App.git"
+
   },
+
   "author": "Kieran McDougall",
+
   "license": "ISC",
+
   "bugs": {
+
     "url": "https://github.com/kmcdougall27/Photo-App/issues"
+
   },
+
   "homepage": "https://github.com/kmcdougall27/Photo-App#readme",
+
   "devDependencies": {
-    "eslint": "^8.20.0"
+
+    "eslint": "^8.20.0",
+
+    "eslint-config-standard": "^17.0.0",
+
+    "eslint-plugin-import": "^2.26.0",
+
+    "eslint-plugin-n": "^15.2.4",
+
+    "eslint-plugin-promise": "^6.0.0",
+
+    "lint": "^1.1.2",
+
+    "prettier-eslint": "^15.0.1",
+
+    "prettier-eslint-cli": "^6.0.1"
+
   }
+
 }
+
